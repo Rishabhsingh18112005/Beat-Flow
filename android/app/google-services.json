@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414677289354",
+    "project_id": "beatflow-bb182",
+    "storage_bucket": "beatflow-bb182.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414677289354:android:dc79100d6f6e1ef8672073",
+        "android_client_info": {
+          "package_name": "com.example.new_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR-cAoCksljLWrkEWbMDHTjYpUaDtHWMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
